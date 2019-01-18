@@ -2,6 +2,11 @@
 
 A free static resources and open source software reverse proxy and mirror.
 
+## Feature
+
+- HTTP/2
+- HSTS (in comming)
+
 ## Usage
 
 ### CDN
