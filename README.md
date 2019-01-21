@@ -1,5 +1,8 @@
 # Telescopium
 
+![Uptime status](https://img.shields.io/uptimerobot/status/m781676682-63e6c6681418d666efe2478c.svg?style=flat-square)
+![Uptime status 7 days](https://img.shields.io/uptimerobot/ratio/7/m781676682-63e6c6681418d666efe2478c.svg?style=flat-square)
+
 A free static resources and open source software reverse proxy and mirror.
 
 ## Feature
