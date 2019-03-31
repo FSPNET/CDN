@@ -2,7 +2,7 @@
 
 *Effective date: Nov 28, 2018*
 
-DawoEA ("us", "we", or "our") operates the Telescopium project (the "Service").
+FSP Network ("us", "we", or "our") operates the Telescopium project (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data
 when you use our Service and the choices you have associated with that data.
@@ -73,7 +73,7 @@ We do not use or store information about your location (“Location Data”).
 We do not use cookies or similar tracking technologies to track your activity on our Service.
 
 ## Use of Data
-DawoEA uses the collected data for various purposes:
+FSP Network uses the collected data for various purposes:
 
  - To provide and maintain our Service
  - To notify you about changes to our Service
@@ -85,12 +85,12 @@ DawoEA uses the collected data for various purposes:
 
  ## Retention of Data
 
-DawoEA will retain your Personal Data only for as long as is necessary for the purposes
+FSP Network will retain your Personal Data only for as long as is necessary for the purposes
 set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary
 to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws),
 resolve disputes, and enforce our legal agreements and policies.
 
-DawoEA will also retain Usage Data for internal analysis purposes.
+FSP Network will also retain Usage Data for internal analysis purposes.
 Usage Data is generally retained for a shorter period of time, except when this data is
 used to strengthen the security or to improve the functionality of our Service,
 or we are legally obligated to retain this data for longer time periods.
@@ -104,7 +104,7 @@ may differ than those from your jurisdiction.
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-DawoEA will take all steps reasonably necessary to ensure that your data is treated securely
+FSP Network will take all steps reasonably necessary to ensure that your data is treated securely
 and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to
 an organization or a country unless there are adequate controls in place including the security of
 your data and other personal information.
@@ -112,14 +112,14 @@ your data and other personal information.
 ## Disclosure Of Data
 
 ### Disclosure for Law Enforcement
-Under certain circumstances, DawoEA may be required to disclose your Personal Data
+Under certain circumstances, FSP Network may be required to disclose your Personal Data
 if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
 ### Legal Requirements
-DawoEA may disclose your Personal Data in the good faith belief that such action is necessary to:
+FSP Network may disclose your Personal Data in the good faith belief that such action is necessary to:
 
  - To comply with a legal obligation
- - To protect and defend the rights or property of DawoEA
+ - To protect and defend the rights or property of FSP Network
  - To prevent or investigate possible wrongdoing in connection with the Service
  - To protect the personal safety of users of the Service or the public
  - To protect against legal liability
@@ -139,7 +139,7 @@ You can enable or disable Do Not Track by visiting the Preferences or Settings p
 
 ## Your Rights
 
-DawoEA aims to take reasonable steps to allow you to correct, amend, delete,
+FSP Network aims to take reasonable steps to allow you to correct, amend, delete,
 or limit the use of your Personal Data.
 
 If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems,
@@ -150,7 +150,7 @@ In certain circumstances, you have the right:
  - To access and receive a copy of the Personal Data we hold about you
  - To rectify any Personal Data held about you that is inaccurate
  - To request the deletion of Personal Data held about you
- - You have the right to data portability for the information you provide to DawoEA. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
+ - You have the right to data portability for the information you provide to FSP Network. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
 
 Please note that we may ask you to verify your identity before responding to such requests.
 
