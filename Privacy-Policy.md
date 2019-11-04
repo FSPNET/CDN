@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Effective date: Nov 28, 2018*
+*Effective date: Nov 4, 2019*
 
 FSP Network ("us", "we", or "our") operates the Telescopium project (the "Service").
 
@@ -164,7 +164,7 @@ and are obligated not to disclose or use it for any other purpose.
 
 ### Content Delivery
 
-We use third-party Service Providers to serve all of our traffic under the domain cdn.dawoea.net / ajax.dawoea.net / fonts.dawoea.net / gravatar.dawoea.net / steamapi.addones.org / steamcdn.addones.org.
+We use third-party Service Providers to serve all of our traffic under the domain cdn.addones.org / ajax.addones.org / fonts.addones.org / gravatar.addones.org / steamapi.addones.org / steamcdn.addones.org.
 This means all of these providers have access to your IP address and other information sent by your web browser.
 This information is used for analytics and security purposes. Neither we nor our providers track any individual user.
 
@@ -173,6 +173,12 @@ This information is used for analytics and security purposes. Neither we nor our
 For more information on the privacy practices of Cloudflare,
 please visit the following web page:<br>
 https://www.cloudflare.com/security-policy/
+
+#### jsDelivr
+
+For more information on the privacy practices of jsDelivr,
+please visit the following web page:<br>
+https://www.jsdelivr.com/privacy-policy-jsdelivr-net
 
 ## Links To Other Sites
 
